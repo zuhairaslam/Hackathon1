@@ -14,7 +14,7 @@ const Hero = () => {
                 An Industrial Take on Streetwear
               </h1>
               <p className="mt-6 sm:text-1xl text-xl text-slate-700 max-w-lg">
-              Anyone can beat you but no one can beat your outfit as long as you wear Dine outfits.
+              Anyone can beat you but no one can beat your outfit as long as you wear Dine outfits..
               </p>
               
               
